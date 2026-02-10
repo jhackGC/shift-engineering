@@ -1,0 +1,19 @@
+# Site settings
+title: Shift Engineering Blog
+description: Technical insights and engineering decisions
+author: Shift Engineering Team
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+# GitHub Pages settings
+theme: minima
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
