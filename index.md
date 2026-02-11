@@ -1,11 +1,13 @@
 ---
 layout: home
-title: Engineering Blog
+title: Shift Green Hub Engineering Blog
 ---
 
-# Shift Engineering Blog
+# Shift Green Hub Engineering Blog
 
-Welcome to the Shift Engineering Blog. Here we share technical insights, architectural decisions, and lessons learned from building and scaling our systems.
+Welcome to the Shift Green Hub Engineering Blog.
+
+Here we share technical insights, architectural decisions, and lessons learned from building and scaling our systems.
 
 ## Recent Posts
 
