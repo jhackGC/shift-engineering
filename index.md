@@ -3,7 +3,7 @@ layout: home
 title: Shift Green Hub Engineering Blog
 ---
 
-# Shift Green Hub Engineering Blog
+# Hi!
 
 Welcome to the Shift Green Hub Engineering Blog.
 

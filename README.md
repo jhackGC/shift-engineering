@@ -87,15 +87,7 @@ const greeting = () => {
 
 To preview your site locally:
 
-1. Install Ruby and Bundler
-2. Create a `Gemfile`:
-   ```ruby
-   source 'https://rubygems.org'
-   gem 'github-pages', group: :jekyll_plugins
-   ```
-3. Run: `bundle install`
-4. Run: `bundle exec jekyll serve`
-5. Visit `http://localhost:4000`
+1. Install Markdown viewer
 
 **Note**: Local development is optional. GitHub Pages will build your site automatically when you push changes.
 
